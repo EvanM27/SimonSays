@@ -1,0 +1,10 @@
+D:\IDE\Interview Code\Simon Says\Simon Says\bin\Debug\Simon Says.exe.config
+D:\IDE\Interview Code\Simon Says\Simon Says\bin\Debug\Simon Says.exe
+D:\IDE\Interview Code\Simon Says\Simon Says\bin\Debug\Simon Says.pdb
+D:\IDE\Interview Code\Simon Says\Simon Says\obj\Debug\Simon Says.csprojResolveAssemblyReference.cache
+D:\IDE\Interview Code\Simon Says\Simon Says\obj\Debug\Simon_Says.GameForm.resources
+D:\IDE\Interview Code\Simon Says\Simon Says\obj\Debug\Simon_Says.Properties.Resources.resources
+D:\IDE\Interview Code\Simon Says\Simon Says\obj\Debug\Simon Says.csproj.GenerateResource.Cache
+D:\IDE\Interview Code\Simon Says\Simon Says\obj\Debug\Simon Says.csproj.CoreCompileInputs.cache
+D:\IDE\Interview Code\Simon Says\Simon Says\obj\Debug\Simon Says.exe
+D:\IDE\Interview Code\Simon Says\Simon Says\obj\Debug\Simon Says.pdb
